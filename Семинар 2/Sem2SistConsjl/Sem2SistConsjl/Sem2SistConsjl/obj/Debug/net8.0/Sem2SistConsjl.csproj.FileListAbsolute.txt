@@ -1,0 +1,14 @@
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\obj\Debug\net8.0\Sem2SistConsjl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\obj\Debug\net8.0\Sem2SistConsjl.AssemblyInfoInputs.cache
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\obj\Debug\net8.0\Sem2SistConsjl.AssemblyInfo.cs
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\obj\Debug\net8.0\Sem2SistConsjl.csproj.CoreCompileInputs.cache
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\bin\Debug\net8.0\Sem2SistConsjl.exe
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\bin\Debug\net8.0\Sem2SistConsjl.deps.json
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\bin\Debug\net8.0\Sem2SistConsjl.runtimeconfig.json
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\bin\Debug\net8.0\Sem2SistConsjl.dll
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\bin\Debug\net8.0\Sem2SistConsjl.pdb
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\obj\Debug\net8.0\Sem2SistConsjl.dll
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\obj\Debug\net8.0\refint\Sem2SistConsjl.dll
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\obj\Debug\net8.0\Sem2SistConsjl.pdb
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\obj\Debug\net8.0\Sem2SistConsjl.genruntimeconfig.cache
+C:\Users\ОГМ\source\repos\Sem2SistConsjl\Sem2SistConsjl\obj\Debug\net8.0\ref\Sem2SistConsjl.dll
