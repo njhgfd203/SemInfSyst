@@ -1,0 +1,86 @@
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.csproj.AssemblyReference.cache
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.Form1.resources
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.Properties.Resources.resources
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.csproj.GenerateResource.cache
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.csproj.CoreCompileInputs.cache
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\INFSISTSem3.exe.config
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\INFSISTSem3.exe
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\INFSISTSem3.pdb
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\Google.Protobuf.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\MySql.Data.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Buffers.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.IO.Pipelines.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Memory.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\ZstdSharp.dll
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\Google.Protobuf.pdb
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\Google.Protobuf.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\MySql.Data.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Buffers.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.IO.Pipelines.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Memory.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTS.87899713.Up2Date
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.exe
+C:\Users\skory\source\repos\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.pdb
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\INFSISTSem3.exe.config
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\INFSISTSem3.exe
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\INFSISTSem3.pdb
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\Google.Protobuf.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\MySql.Data.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Buffers.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.IO.Pipelines.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Memory.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\ZstdSharp.dll
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\Google.Protobuf.pdb
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\Google.Protobuf.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\MySql.Data.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Buffers.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.IO.Pipelines.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Memory.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.csproj.AssemblyReference.cache
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.Form1.resources
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.Properties.Resources.resources
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.csproj.GenerateResource.cache
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.csproj.CoreCompileInputs.cache
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTS.87899713.Up2Date
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.exe
+C:\Users\skory\Downloads\Telegram Desktop\INFSISTSem3\INFSISTSem3\INFSISTSem3\obj\Debug\INFSISTSem3.pdb
